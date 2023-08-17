@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://17yh5kr2ylan"]
-
-[ext_resource type="Texture2D" uid="uid://cl7l2ltdlr5gh" path="res://Sprites/Dot.png" id="1_grksm"]
-
-[node name="Dot1" type="TextureRect"]
-offset_right = 12.0
-offset_bottom = 12.0
-texture = ExtResource("1_grksm")
